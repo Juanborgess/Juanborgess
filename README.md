@@ -11,7 +11,9 @@ Atualmente, estou aprendendo **HTML, CSS, JavaScript e React.js**, desenvolvendo
 
 ## 💼 Projetos em Destaque:
 🔹 [Fátima Bolos](https://fatimabolos.com.br) – Site institucional para uma boleira profissional  
+
 🔹 [Carla Ribeiro Contadora](https://carlaexacon.com.br/) – Site institucional para uma consultora contábil. 
+
 🔹 [Kevin Personal](https://kevinpersonal.com.br/) – Site institucional para um personal trainer.
 
 
