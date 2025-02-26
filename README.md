@@ -1,12 +1,11 @@
 # 👋 Olá, eu sou o Juan Borges!
 
 🎯 **Desenvolvedor Front-end** apaixonado por criar interfaces **modernas e responsivas**!  
-Atualmente, estou aprendendo **HTML, CSS, JavaScript e React.js**, desenvolvendo projetos que unem **performance e design**.  
+Atualmente, estou aprendendo **HTML, CSS, JavaScript**, desenvolvendo projetos que unem **performance e design**.  
 
 ## 🚀 Tecnologias que estou estudando:
 ✔ **HTML & CSS** – Estruturação e estilização de páginas responsivas  
-✔ **JavaScript** – Interatividade e lógica de programação  
-✔ **React.js** – Construção de aplicações dinâmicas e escaláveis  
+✔ **JavaScript** – Interatividade e lógica de programação    
 ✔ **Git & GitHub** – Controle de versão e colaboração  
 
 ## 💼 Projetos em Destaque:
