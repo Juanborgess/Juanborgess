@@ -1,32 +1,65 @@
-# 👋 Olá, eu sou o Juan Borges!
+👋 Olá, eu sou o Juan Borges!
 
-# 👨‍💻 Juan Borges
+👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas apaixonado por resolver problemas com tecnologia.
 
-🎯 **Desenvolvedor Front-end em formação**, apaixonado por criar interfaces **modernas, funcionais e responsivas**.
+🎯 Minha jornada de estudos tem dois grandes focos que se complementam:
 
-Atualmente, curso **Análise e Desenvolvimento de Sistemas** e estudo **Desenvolvimento Web** na plataforma **DevMedia**, com o objetivo de me tornar um **Desenvolvedor Full Stack**.
+Desenvolvimento Front-End: Criar interfaces modernas, funcionais e responsivas.
 
----
+Dados & Inteligência Artificial: Usar Python para extrair insights, automatizar processos e criar soluções inteligentes.
 
-## 🚀 Tecnologias que estou aprendendo:
-- 💡 **HTML & CSS** – Estruturação e estilização de páginas
-- 🧠 **JavaScript** – Interatividade, lógica e manipulação de DOM
-- 🌐 **Git & GitHub** – Versionamento e colaboração em projetos
+O meu objetivo final é combinar estas habilidades para me tornar um Desenvolvedor Full-Stack versátil e orientado a dados.
 
----
+🚀 Tecnologias e Ferramentas
 
-## 💼 Projetos em Destaque:
-🔹 [Fátima Bolos](https://fatimabolos.com.br) – Site institucional para uma boleira profissional  
-🔹 [Carla Ribeiro Contadora](https://carlaexacon.com.br/) – Site para consultora contábil  
-🔹 [Kevin Personal](https://kevinpersonal.com.br/) – Página para personal trainer
+Atualmente, esta é a minha "caixa de ferramentas" de estudo e trabalho:
 
----
+💡 Front-End:
 
-## 📫 Contato:
-- 📧 **E-mail:** [juanborgesdev@gmail.com](mailto:juanborgesdev@gmail.com)  
-- 🔗 **LinkedIn:** [linkedin.com/in/juanborgesdev](https://www.linkedin.com/in/juan-borges-3170a5349)
+HTML & CSS: Estruturação e estilização de páginas, com foco em layouts responsivos e Flexbox.
 
----
+JavaScript: Interatividade, lógica e manipulação do DOM (iniciante).
 
-📢 **Busco oportunidades para evoluir na prática como desenvolvedor!**  
-Se você procura alguém comprometido, curioso e em constante evolução, vamos conversar! 🚀
+🧠 Back-End, Dados & IA:
+
+Python: Linguagem principal para desenvolver o raciocínio lógico e projetos de IA. (Conhecimento Básico).
+
+Pandas: Biblioteca para manipulação e análise de dados (iniciante).
+
+⚙️ Ferramentas:
+
+Git & GitHub: Versionamento e colaboração em projetos.
+
+VS Code: Meu ambiente de desenvolvimento principal.
+
+🌱 O que estou a aprender agora
+
+🤖 Engenharia de Agentes de IA: Foco principal na trilha da Asimov Academy para construir aplicações inteligentes.
+
+🐼 Análise de Dados com Pandas: Aplicando os conhecimentos no projeto da faculdade.
+
+🌐 Inglês: Melhorando a minha fluência para o mercado de trabalho global na Fluency Academy.
+
+💼 Projetos em Destaque
+
+🔹 Projetos Freelancer (Front-End):
+
+Desenvolvimento de landing pages responsivas para clientes de diversas áreas (educação, fitness, contabilidade), focando na experiência do usuário e na conversão.
+
+🔹 Projeto de Análise de Dados (Faculdade - em desenvolvimento):
+
+Supermercado: Análise de dados de compras para identificar padrões de consumo e oportunidades, utilizando Python e Pandas.
+
+📈 Minhas Estatísticas no GitHub
+
+📫 Contato
+
+📧 E-mail: juanborgesdev@gmail.com
+
+
+
+
+
+🔗 LinkedIn: linkedin.com/in/juanborgesdev
+
+📢 Estou ativamente à procura de uma oportunidade de estágio em Desenvolvimento Front-End ou Análise de Dados
